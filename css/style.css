@@ -163,17 +163,16 @@ ul.top_menu {
 }
 
 #a:hover {
-  background-color: green;
-  color: white;
-  transition: all 0.9s;
+  opacity: 0.6;
 
 }
 
 #a {
   /* transition: all 0.9s; */
   /* vertical-align: middle; */
-  margin-bottom:70px;
+  margin-bottom: 70px;
   margin-left: 200px;
+  background-color: green;
 }
 
 #ligh {
